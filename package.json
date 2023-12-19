@@ -1,6 +1,6 @@
 {
   "name": "@caplin/karma-jasmine-order-reporter",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "./src/index.js",
   "description": "Reports Jasmine order seed that was used to randomize specs in Karma Runner",
   "author": "Dzmitry Shyndzin <shindindmitry@gmail.com> (https://github.com/dmitryshindin)",
